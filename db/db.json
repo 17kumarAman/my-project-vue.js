@@ -1,0 +1,41 @@
+{
+  "user": [
+    {
+      "email": "amit@123",
+      "name": "Amit",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "email": "aman@mail.com",
+      "name": "Aman",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "resturant":[
+    {
+      "id":1,
+      "name":  "KFC",
+      "address": "Noida sector 50",
+      "contact":111
+    },
+    {
+      "id":2,
+      "name":  "Burger King",
+      "address": "Noida sector 52",
+      "contact":11124
+    },
+    {
+      "id":3,
+      "name":  "Pure Veg",
+      "address": "Gurgaon",
+      "contact":11124
+    },{
+      "id":4,
+      "name":  "Wow momo",
+      "address": "Ghaziabad",
+      "contact":11124
+    }
+  ]
+}
